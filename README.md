@@ -3,7 +3,7 @@
 Capstone Project Modul 3: Machine Learning Regression
 Bootcamp Data Science & Machine Learning, Purwadhika
 
-**Penulis:** [isi namamu]
+**Penulis:** Sari Theresia
 
 ---
 
