@@ -53,7 +53,7 @@ Fokus utama proyek ini adalah memanfaatkan pendekatan Machine Learning Regressio
 - `Daegu Apartment - ML Regresi.ipynb` — Jupyter Notebook berisi proses EDA, data preprocessing, model development, evaluation, dan business recommendations.
 - `data_daegu_apartment.csv` — Dataset yang digunakan untuk analisis dan pemodelan.
 - `model_xgboost_daegu.pkl` — Final trained model menggunakan Tuned XGBoost Regressor beserta preprocessing pipeline.
-- `requirements.txt` — Daftar library dan dependencies yang digunakan.
+- `PPT` — Summary dari isi project.
 
 ## 📊 5. Summary of Findings
 
